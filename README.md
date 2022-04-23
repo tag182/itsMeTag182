@@ -8,7 +8,8 @@ i've taken part in software development for 5 years, mostly responsible for back
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [super.tag182@gmail.com](mailto:super.tag182@gmail.com)
-*   🧠  I'm learning Golang and open to latest Framework
+*   🧠  I'm learning Golang 
+
 ### Skills
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
