@@ -7,7 +7,7 @@ Backend Developer
 i've taken part in software development for 5 years, mostly responsible for backend development. i started as a Full Stack developer using Yii2 Framework, then got interested in backend development and explored various frameworks like Java Spring Boot, PHP Slim, Lumen from Laravel and recently using Golang. i've worked on various internal Project such as Payment System, Monitoring System in Dashboard Form, e-commerce.
 
 *   🌍  I'm based in Indonesia
-*   ✉️  You can contact me at [super.tag182@gmail.com](mailto:super.tag182@gmail.com)
+*   ✉️  You can contact me at my Linkedin page
 *   🧠  Love to learn something new and currently enjoying learning Golang using Design pattern 
 
 ### Skills
