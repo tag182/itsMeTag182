@@ -8,7 +8,7 @@ i've taken part in software development for 5 years, mostly responsible for back
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [super.tag182@gmail.com](mailto:super.tag182@gmail.com)
-*   🧠  I'm learning Golang 
+*   🧠  Love to learn something new and currently enjoying learning Golang using Design pattern 
 
 ### Skills
 <p align="left">
